@@ -14,5 +14,13 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yurii092/js-easy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Yurii092/js-easy/issues"
+  },
+  "homepage": "https://github.com/Yurii092/js-easy#readme"
 }
